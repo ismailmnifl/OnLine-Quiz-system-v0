@@ -1,0 +1,11 @@
+.topScores {
+    background-color: white;
+    height: auto;
+    width: 200px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding:5px;
+}

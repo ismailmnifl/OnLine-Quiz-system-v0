@@ -1,0 +1,45 @@
+footer {
+    width: 100%;
+    position: fixed;
+    height: 50px;
+    padding: 5px;
+    bottom: 0;
+    background-color: #2E4C6D;
+}
+
+footer h3 {
+    color: #DADDFC;
+    text-align: center;
+    position: relative;
+    font-style: italic;
+    top: 5px;
+}
+
+.social_media {
+    float: right;
+    margin-right: 30px;
+    position: relative;
+    bottom: 22px;
+}
+
+.social_media a {
+    margin: 3px;
+}
+
+.social_media a i {
+    font-size: 30px;
+    color: #DADDFC;
+}
+
+@media only screen and (max-width: 768px) {
+    footer {
+        height: 100px;
+    }
+    .social_media {
+        float: right;
+        margin-right: 30px;
+        position: relative;
+        top: 5px;
+        right: 70px;
+    }
+}

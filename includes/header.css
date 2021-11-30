@@ -1,0 +1,60 @@
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 50px;
+    background-color: #2E4C6D;
+    text-align: center;
+}
+
+header a {
+    z-index: 100;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 5px;
+    color: #DADDFC;
+    background-color: #396EB0;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #DADDFC;
+}
+
+header a:hover {
+    color: #396EB0;
+    background-color: #DADDFC;
+    border: 1px solid #396EB0;
+}
+
+#home {
+    float: left;
+    margin-left: 20px;
+}
+
+.navi {
+    position: relative;
+    top: 10px;
+}
+
+.wrapper {
+    float: right;
+    margin-right: 20px;
+}
+
+header h2 {
+    color: #DADDFC;
+    font-style: italic;
+    position: relative;
+    top: 5px;
+}
+
+@media only screen and (max-width: 768px) {
+    header h2 {
+        display: none;
+    }
+    .wrapper {
+        float: right;
+        margin-right: 20px;
+        position: relative;
+        bottom: 0;
+    }
+}

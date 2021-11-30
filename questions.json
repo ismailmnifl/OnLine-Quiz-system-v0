@@ -1,0 +1,81 @@
+[{
+        "title": "Quelle organisation définit les standards Web?",
+        "answer_1": "Apple Inc.",
+        "answer_2": "IBM Corporation",
+        "answer_3": "Microsoft Corporation",
+        "answer_4": "World Wide Web Consortium",
+        "right_answer": "World Wide Web Consortium"
+    },
+    {
+        "title": " HTML est considéré comme ______ ?",
+        "answer_1": "Langage de programmation",
+        "answer_2": "Langage POO>",
+        "answer_3": "Langage de haut niveau",
+        "answer_4": "Langage de balisage",
+        "right_answer": "Langage de balisage"
+    },
+    {
+        "title": "HTML utilise des ______?",
+        "answer_1": "Balises définis par l’utilisateur",
+        "answer_2": "Balises prédéfinis",
+        "answer_3": "Balises fixes définis par le langage",
+        "answer_4": "Balises uniquement pour les liens",
+        "right_answer": "Balises fixes définis par le langage"
+    },
+    {
+        "title": "HTML a été proposé pour la première fois l’année ___.",
+        "answer_1": "1980",
+        "answer_2": "1990",
+        "answer_3": "1995",
+        "answer_4": "2000",
+        "right_answer": "1990"
+    },
+    {
+        "title": "Lequel des éléments suivants n’est pas un exemple de navigateur?",
+        "answer_1": "Mozilla Firefox",
+        "answer_2": "Netscape",
+        "answer_3": "Microsoft Bing",
+        "answer_4": "Opéra",
+        "right_answer": "Microsoft Bing"
+    },
+    {
+        "title": "Qui est l’auteur principal du HTML?",
+        "answer_1": "Brendan Eich",
+        "answer_2": "Tim Berners-Lee",
+        "answer_3": "Google Inc",
+        "answer_4": "Développeur web",
+        "right_answer": "Tim Berners-Lee"
+    },
+    {
+        "title": "Si nous souhaitons définir le style d’un seule élément, quel sélecteur css utiliserons-nous?",
+        "answer_1": "id",
+        "answer_2": "text",
+        "answer_3": "class",
+        "answer_4": "name",
+        "right_answer": "id"
+    },
+    {
+        "title": "La balise HTML qui spécifie un style CSS intégré dans un élément est appelée ____?",
+        "answer_1": "Design",
+        "answer_2": "Style",
+        "answer_3": "Modify",
+        "answer_4": "Define",
+        "right_answer": "Style"
+    },
+    {
+        "title": " La norme HTML qui n’exige pas des double quotes autour des valeurs d’un attribut est dite ______?",
+        "answer_1": "HTML 7",
+        "answer_2": "HTML 2",
+        "answer_3": "HTML 5",
+        "answer_4": "HTML 1",
+        "right_answer": "HTML 5"
+    },
+    {
+        "title": "Un type de document HTML plus strict est connu sous ______ ?",
+        "answer_1": "DHTML",
+        "answer_2": "XHTML",
+        "answer_3": "XML",
+        "answer_4": "HTML",
+        "right_answer": "XHTML"
+    }
+]
